@@ -2,7 +2,7 @@
 
 A responsive travel agency website built with HTML and CSS, focused on creating a clean and user-friendly layout.
 
-Live Demo: https://ondrej108.github.io/Travel-Agency-Website/
+Live Demo: https://ondrej108.github.io/travel-agency-website/)
 
 ---
 
@@ -34,12 +34,13 @@ Live Demo: https://ondrej108.github.io/Travel-Agency-Website/
 
 ## Project Structure
 
-
+```
 travel-agency-website/
 ├── index.html
 ├── styles.css
 ├── images/
 └── README.md
+```
 
 
 ---
